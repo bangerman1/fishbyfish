@@ -60,8 +60,8 @@ function App() {
                   BUY {ticker}
                 </button>
                 <div className="socialsBlock">
-                  <a href="https://twitter.com/aDolfin_1488"><img className="socialImg" alt="telegram" src={tg}/></a>
-                  <a href="https://t.me/aDolfin_channel"><img className="socialImg" alt="twitter" src={twitter}/></a>
+                  <a href="https://t.me/aDolfin_channel"><img className="socialImg" alt="telegram" src={tg}/></a>
+                  <a href="https://twitter.com/aDolfin_1488"><img className="socialImg" alt="twitter" src={twitter}/></a>
                 </div>
               </div>
             </div>
